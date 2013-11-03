@@ -1,0 +1,1 @@
+En el documento "Instrucciones de Instalación.pdf" se indica como utilizar a aplicación en un servidor web o en local.
